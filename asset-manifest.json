@@ -1,7 +1,7 @@
 {
   "main.css": "/spring-actuator-loggers/static/css/main.ba3ec8ee.chunk.css",
-  "main.js": "/spring-actuator-loggers/static/js/main.1f6cedc3.chunk.js",
-  "main.js.map": "/spring-actuator-loggers/static/js/main.1f6cedc3.chunk.js.map",
+  "main.js": "/spring-actuator-loggers/static/js/main.86037699.chunk.js",
+  "main.js.map": "/spring-actuator-loggers/static/js/main.86037699.chunk.js.map",
   "static/js/1.4587b355.chunk.js": "/spring-actuator-loggers/static/js/1.4587b355.chunk.js",
   "static/js/1.4587b355.chunk.js.map": "/spring-actuator-loggers/static/js/1.4587b355.chunk.js.map",
   "static/js/2.7308f787.chunk.js": "/spring-actuator-loggers/static/js/2.7308f787.chunk.js",
@@ -10,6 +10,6 @@
   "runtime~main.js.map": "/spring-actuator-loggers/static/js/runtime~main.6d3b90ea.js.map",
   "static/css/main.ba3ec8ee.chunk.css.map": "/spring-actuator-loggers/static/css/main.ba3ec8ee.chunk.css.map",
   "index.html": "/spring-actuator-loggers/index.html",
-  "precache-manifest.acc899dce973bd9de336ce9ff881cd39.js": "/spring-actuator-loggers/precache-manifest.acc899dce973bd9de336ce9ff881cd39.js",
+  "precache-manifest.be858febffdaa3de4e567378764626eb.js": "/spring-actuator-loggers/precache-manifest.be858febffdaa3de4e567378764626eb.js",
   "service-worker.js": "/spring-actuator-loggers/service-worker.js"
 }
