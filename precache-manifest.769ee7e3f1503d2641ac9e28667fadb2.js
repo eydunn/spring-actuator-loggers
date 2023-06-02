@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/spring-actuator-loggers/static/js/runtime~main.079699bc.js"
   },
   {
-    "revision": "478b5177fc93100a6b80db4fa0abe692",
+    "revision": "36c13480729feebba290e9018700ebbd",
     "url": "/spring-actuator-loggers/index.html"
   }
 ];

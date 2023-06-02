@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/spring-actuator-loggers/precache-manifest.e71a27fd5f17fec6154619951ba38eb8.js"
+  "/spring-actuator-loggers/precache-manifest.769ee7e3f1503d2641ac9e28667fadb2.js"
 );
 
 workbox.clientsClaim();
