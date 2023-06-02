@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "7a7a57221609ce1823b9",
+    "revision": "2cb21236ec41543cb604",
     "url": "/spring-actuator-loggers/static/css/main.2cb44015.chunk.css"
   },
   {
-    "revision": "7a7a57221609ce1823b9",
-    "url": "/spring-actuator-loggers/static/js/main.7a7a5722.chunk.js"
+    "revision": "2cb21236ec41543cb604",
+    "url": "/spring-actuator-loggers/static/js/main.2cb21236.chunk.js"
   },
   {
     "revision": "9ad960da41216fce2577",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/spring-actuator-loggers/static/js/runtime~main.079699bc.js"
   },
   {
-    "revision": "ccf5e5d3a2eb89d77667a2a24d7059a3",
+    "revision": "478b5177fc93100a6b80db4fa0abe692",
     "url": "/spring-actuator-loggers/index.html"
   }
 ];
